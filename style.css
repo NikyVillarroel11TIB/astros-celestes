@@ -10,9 +10,9 @@ div h1, h2, h3, h4 {
 }
 
 .o sol{
-    color: darkslateblue;
+    color: rgb(71, 61, 138)
 }
 
 p, ol, li {
-    color: #646cb1;
+    color: rgb(99, 107, 176);
 }
